@@ -2,5 +2,6 @@ mysql
 #支持私库
 docker.io/library/nginx:1.27
 docker.io/library/nginx:1.28
+apache/rocketmq:5.3.3
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
