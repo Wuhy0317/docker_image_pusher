@@ -2,6 +2,6 @@
 #支持私库
 python:3.9-alpine
 rancher/rancher:latest
-imroc/logrotate:latest
+curlimages/curl:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
