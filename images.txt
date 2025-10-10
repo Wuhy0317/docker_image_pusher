@@ -1,7 +1,5 @@
 # mysql
 #支持私库
-python:3.9-alpine
-rancher/rancher:latest
-curlimages/curl:latest
+higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/gateway:2.1.7
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
